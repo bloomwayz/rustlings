@@ -1,3 +1,26 @@
 # Rustlings
 
-My solutions for [Rustlings](https://rustlings.rust-lang.org), which is a problem set for exercising Rust.
+- [x] 0. Intro
+- [x] 1. Variables
+- [x] 2. Functions
+- [x] 3. If
+- [x] 4. Primitive Types
+- [x] 5. Vectors
+- [x] 6. Move Semantics
+- [x] 7. Structs
+- [x] 8. Enums
+- [x] 9. Strings
+- [x] 10. Modules
+- [x] 11. Hashmaps
+- [x] 12. Options
+- [ ] 13. Error Handling
+- [ ] 14. Generics
+- [ ] 15. Traits
+- [ ] 16. Lifetimes
+- [ ] 17. Tests
+- [ ] 18. Iterators
+- [ ] 19. Smart Pointers
+- [ ] 20. Threads
+- [ ] 21. Macros
+- [ ] 22. Clippy
+- [ ] 23. Conversions
